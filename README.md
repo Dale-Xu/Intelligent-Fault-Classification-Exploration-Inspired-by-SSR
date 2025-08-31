@@ -1,7 +1,7 @@
 # Intelligent-Fault-Classification-Exploration-Inspired-by-SSR
 This repository contains the PyTorch implementation for “Intelligent Fault Classification Exploration Inspired by Suprathreshold Stochastic Resonance”.
 
-The proposed activation function can be used by replacing standard ReLU layers with our CustomActivationFunction module. Please note that hyperparameters including learning rate and batch size need to be tuned as they may significantly impact the performance of LANReLU. The optimal hyperparameter configuration for LANReLU could be largely different from that of ReLU.
+The proposed activation function can be used by replacing standard ReLU layers with our Custom_activation module. Please note that hyperparameters including learning rate and batch size need to be tuned as they may significantly impact the performance of LANReLU. The optimal hyperparameter configuration for LANReLU could be largely different from that of ReLU.
 
 Additionally, other strategies for constraining positive noise are annotated in the code. We welcome attempts and discussions on these approaches.
 
